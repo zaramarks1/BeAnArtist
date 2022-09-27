@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding = "ISO-8859-15"?>
+	<svg width = "1000" height="1000" xmlns="http://www.w3.org/2000/svg">
+		 <line x1="0" y1="0" x2="200" y2="200" stroke = "#FF0050" stroke-width="2"/>
+		 <line x1="250" y1="150" x2="300" y2="400" stroke = "#FFD700" stroke-width="2"/>
+		 <circle cx="50" cy="50" r="40" stroke="#FFA500" stroke-width="3" fill="#FFFFE0" />
+		 <circle cx="250" cy="350" r="30" stroke="#7FFF00" stroke-width="3" fill="#90EE90"/>
+		 <ellipse cx="500" cy="500" rx="100" ry="50" stroke="#40E0D0" stroke-width="3" fill="#008080"/>
+		 <ellipse cx="124" cy="126" rx="30" ry="40" stroke="#0000CD" stroke-width="3" fill="#EE82EE"/>
+		 <polygon cx="50" cy="70" points="236.6,220 150,195 63.4,220 128.35,157.5 150,70 171.65,157.5" stroke="#FF00FF" stroke-width="3" fill="#800080"/>
+		 <polygon cx="100" cy="100" points="300,200 224.75,224.75 200,300 175.25,224.75, 100,200 175.25,175.25 200,100 224.75,175.25" stroke="#FF69B4" stroke-width="3" fill="#C71585"/>
+	
+	</svg>
